@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
     <widget xmlns:gap="http://phonegap.com/ns/1.0" 
     xmlns="http://www.w3.org/ns/widgets" 
-    id="com.staticking.com" 
+    id="com.oldstaticking.com" 
     version="2.0.0">
 
-        <name>Staticking</name>
+        <name>old Staticking</name>
         <description>
            Bulk sms
         </description>
-        <author email="rvgupta444@gmail.com"
+        <author email="rvgupta4644@gmail.com"
         href="http://cordova.io">
            Staticking  team
         </author>
